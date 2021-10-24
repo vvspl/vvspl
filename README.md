@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vlad
+- 👀 I’m interested in Front-end development
+- 🌱 I’m currently improving my coding skills
+- 📫 How to reach me: send me an e-mail: vladpolt@gmail.com ...
